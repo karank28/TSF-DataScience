@@ -4,4 +4,10 @@ Task 1:Prediction using supervised ML. Task is to predict the percentage of stud
 
 Task2: Prediction using unsupervised ML. To predict the optimum number of clusters using k-means clustering on 'iris' dataset.
 
-Language : Jupyter Notebook
+Language : Python
+
+IDE : Jupyter Notebook
+
+Level: Beginner
+
+Batch : GRIPAPRIL22
